@@ -1,0 +1,11 @@
+
+alessio,300
+
+dad,1200
+giovanni,1000
+dad,1200
+alessio,300
+dd,800
+d,900
+dad,0
+d,500
